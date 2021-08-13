@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RickAndMortyDemo</string>
+    <string name="loadingMessage">loading...</string>
+    <string name="get_data">Get</string>
+</resources>
